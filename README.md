@@ -70,7 +70,6 @@ Growth is defined as **year-on-year nominal growth**, and contributions are calc
 ## Dashboard Overview
 
 ### Single-Page Analytical View
-![GDP by Production Dashboard](/images/GDP_Production_Dashboard.png)
 
 The dashboard consists of **one page**, intentionally designed to keep the analysis focused and accessible.
 
